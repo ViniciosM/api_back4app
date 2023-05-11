@@ -1,4 +1,4 @@
-package br.com.package.api_back4app
+package com.viniciosdev.api_back4app
 
 import io.flutter.embedding.android.FlutterActivity
 

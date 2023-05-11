@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.package.api_back4app">
+    package="com.viniciosdev.api_back4app">
    <application
         android:label="api_back4app"
         android:name="${applicationName}"
